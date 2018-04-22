@@ -1,4 +1,4 @@
-package com.londonappbrewery.climapm;
+package com.zaraki596.weatherapp;
 
 import org.json.JSONException;
 import org.json.JSONObject;

@@ -4,7 +4,7 @@ android {
     compileSdkVersion 27
 
     defaultConfig {
-        applicationId "com.londonappbrewery.climapm"
+        applicationId "com.zaraki596.weatherapp"
         minSdkVersion 19
         targetSdkVersion 27
         versionCode 1
